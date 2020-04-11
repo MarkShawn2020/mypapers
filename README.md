@@ -11,6 +11,7 @@
     ├── plot            # 论文绘图
     ├── stats           # 统计模型
     ├── templates       # 论文模板
+    ├── trans       # 论文翻译
     └── utils           # 高级/辅助
 ```
 
@@ -33,3 +34,4 @@
 - [ ] 集成StatsModel等计量包
 - [ ] 集成JupyterNotebook等环境
 - [ ] 集成Docx、Latex等导出媒介
+

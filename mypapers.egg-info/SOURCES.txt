@@ -1,0 +1,14 @@
+README.md
+setup.py
+mypapers/__init__.py
+mypapers.egg-info/PKG-INFO
+mypapers.egg-info/SOURCES.txt
+mypapers.egg-info/dependency_links.txt
+mypapers.egg-info/top_level.txt
+mypapers/config/__init__.py
+mypapers/crawl/__init__.py
+mypapers/db/__init__.py
+mypapers/export/__init__.py
+mypapers/plot/__init__.py
+mypapers/stats/__init__.py
+mypapers/utils/__init__.py
